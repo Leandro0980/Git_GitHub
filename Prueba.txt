@@ -1,4 +1,6 @@
-Hola a todos.
+Hola a todos
+
+Adios a todos
 
 Espero que todos tengan un excelente dia
 
@@ -7,3 +9,7 @@ Mi nombre es Leandro
 La fecha es 2025
 
 modificamos usuario
+
+Comenzando con Git.
+
+git show agregado
