@@ -13,3 +13,5 @@ modificamos usuario
 Comenzando con Git.
 
 git show agregado
+
+Estoy aprendiendo Git
