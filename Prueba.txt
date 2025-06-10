@@ -15,3 +15,8 @@ Comenzando con Git.
 git show agregado
 
 Estoy aprendiendo Git
+
+H
+O
+L
+A
