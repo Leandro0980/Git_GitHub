@@ -16,4 +16,7 @@ git show agregado
 
 Estoy aprendiendo Git
 
-Y lo estoy entendiendo bien
+H
+O
+L
+A
